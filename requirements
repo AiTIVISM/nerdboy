@@ -1,0 +1,2 @@
+# Add your project-specific dependencies here
+tkinter==<your_version>
